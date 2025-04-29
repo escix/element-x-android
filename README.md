@@ -20,6 +20,7 @@ Learn more about why we are building Element X in our blog post: [https://elemen
 
 <!--- TOC -->
 
+* [Usage instructions](#usage-instructions)
 * [Screenshots](#screenshots)
 * [Translations](#translations)
 * [Rust SDK](#rust-sdk)
@@ -30,6 +31,9 @@ Learn more about why we are building Element X in our blog post: [https://elemen
 * [Copyright and License](#copyright-and-license)
 
 <!--- END -->
+
+## Usage instructions
+
 
 ## Screenshots
 
